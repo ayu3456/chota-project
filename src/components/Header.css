@@ -1,0 +1,31 @@
+.header1{
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header2{
+    background-color: #EE732D;
+    height: 3rem;
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+input {
+    padding: 5px;
+}
+
+.btn2{
+    width: 6rem;
+    padding: 5px;
+    border: 1.2px solid #2563eb;
+    border-radius: 10px;
+}
+
+.logo{
+    color: #2563eb;
+    font-size: 1.5rem;
+}
